@@ -21,20 +21,15 @@ description: "Comunicação apresentada na Mesa 4 – Mídias, Linguagens, Memó
 toc: false
 ---
 
-## VI Seminário Internacional Interdisciplinar em Cultura e Sociedade {.center}
+## Nota sobre o uso de IA generativa {.center}
 
-### Mesa 4 — Mídias, Linguagens, Memória e Sociedade
+Esta apresentação foi estruturada, redigida e formatada com assistência do Hermes Agent, utilizando o modelo de linguagem `gpt-5.6-luna` no dia 10 de novembro de 2026. 
 
-**O deslocamento generativo no giro digital**  
-*IA, agentes e reconfiguração epistêmica nas humanidades*
-
-Prof. Dr. Eric Brasil — UNILAB  
-Mediação: Profa. Dra. Carolina Christiane de Souza Martins  
-PGCult/UFMA
+A supervisão, as escolhas editoriais, a análise, a argumentação e a responsabilidade intelectual são de Eric Brasil.
 
 ---
 
-## Ponto de partida
+## Ponto de partida {.center}
 
 A IA generativa não é apenas uma nova ferramenta digital.
 
@@ -47,19 +42,21 @@ Ela desloca:
 
 ---
 
-## O argumento
+## Nem tínhamos discutido o giro digital e sofremos um capotamento pela tal da IA generativa.  {.center}
+
+![](https://ericbrasil.com.br/imp-hist/imgs/ia-generativa.gif)
+
+---
+
+## Nem tínhamos discutido o giro digital e sofremos um capotamento pela tal da IA generativa.  {.center}
 
 > O giro digital ampliou a capacidade de localizar, organizar e relacionar vestígios.
 >
 > O deslocamento generativo acrescenta sistemas capazes de **produzir operações intermediárias de pesquisa**.
 
-Isso não elimina a interpretação histórica.
-
-Muda onde ela acontece, como pode ser auditada e quem consegue realizá-la.
-
 ---
 
-## 1. A desconfiança com o digital
+## A desconfiança com o digital  {.center}
 
 Por que o digital ainda produz desconfiança nas humanidades?
 
@@ -70,20 +67,23 @@ Por que o digital ainda produz desconfiança nas humanidades?
 
 ---
 
-## O problema não é usar dados
+## O problema não é usar dados digitais {.center}
 
-O problema é tratar a escala como sinônimo de conhecimento.
+O problema é tratar escala e visualizações como sinônimo de conhecimento.
 
 - dados são produzidos por instituições e infraestruturas;
 - bases são recortadas, indexadas e hierarquizadas;
 - modelos carregam regularidades e ausências dos seus dados;
 - toda saída exige crítica de fonte, contexto e método.
 
+
 ---
 
-## 2. Do instrumento ao ambiente epistêmico
+## Do instrumento ao ambiente epistêmico  {.center}
 
 No giro digital, a ferramenta podia ser pensada como extensão do método.
+
+. . .
 
 Com a IA generativa, o sistema passa a:
 
@@ -93,34 +93,55 @@ Com a IA generativa, o sistema passa a:
 - escrever código e executar tarefas;
 - coordenar uma sequência de operações.
 
+---
+
+## Do instrumento ao ambiente epistêmico  {.center}
+
 A questão deixa de ser apenas “qual ferramenta usar?”.
 
 Passa a ser: **que ambiente de produção do conhecimento estamos construindo?**
 
 ---
 
-## 3. A virada generativa
+## A virada generativa {.center}
+::: {.incremental}
 
-Chatbots são apenas a interface mais visível.
+* Todo mundo já conversou com um chatbot? 
+* Quais vocês usam? ChatGPT, Claude, Gemini, DeepSeek?
+* **Chatbots são apenas a interface mais visível.**
+* **Recebiam texto, devolviam texto. Hoje também estão se "agentificando". Vocês notaram?**
+:::
+
+---
+
+## 3. A virada generativa {.center}
 
 O deslocamento relevante ocorre quando LLMs deixam de ser usados somente para conversar e passam a integrar:
 
+::: {.incremental}
 - fluxos de trabalho;
 - bases documentais;
 - APIs e ferramentas;
 - rotinas de análise e verificação.
+::: 
 
 ---
 
-## LLMs: apoio, não autoridade
+## LLMs: apoio, não autoridade {.center}
 
 Um modelo de linguagem pode ajudar a:
 
+::: {.incremental}
 - explorar conceitos e vocabulários;
 - organizar um corpus;
 - sugerir categorias de leitura;
 - comparar versões e localizar recorrências;
 - gerar protótipos de código.
+:::
+
+---
+
+## LLMs: apoio, não autoridade {.center}
 
 Mas não é fonte primária.
 
@@ -128,23 +149,26 @@ A resposta plausível não substitui a evidência verificável.
 
 ---
 
-## 4. Hermenêutica digital aumentada
+## Hermenêutica digital aumentada {.center}
 
-A hermenêutica digital aumentada combina:
-
-- leitura situada;
+- infraestrutura de armazenamento, indexação e recuperação;
 - corpus digital;
-- recuperação de informação;
-- modelos de linguagem;
+- agentes de IA elaborados com *skills* de pesquisa;
+- modelos de linguagem especializados;
+- protocolos de validação e auditoria;
 - registro das decisões e dos limites.
-
-O ganho não está em delegar a interpretação.
-
-Está em ampliar o espaço de perguntas que o pesquisador consegue formular e testar.
 
 ---
 
-## RAG: aproximar resposta e fonte
+## Hermenêutica digital aumentada {.center}
+
+>O ganho não está em delegar a interpretação, ou em acelerar o processo apenas.
+>
+>Está em ampliar o espaço de perguntas que o pesquisador consegue formular e testar.
+
+---
+
+## Exemplo 1 - RAG: aproximar resposta e fonte {.center}
 
 *Retrieval-Augmented Generation* combina um modelo de linguagem com uma base documental.
 
@@ -153,91 +177,77 @@ Está em ampliar o espaço de perguntas que o pesquisador consegue formular e te
 3. o modelo produz uma resposta apoiada nesses trechos;
 4. o pesquisador verifica fonte, contexto e ausência.
 
-RAG reduz a distância entre geração e documentação.
+---
 
-Não elimina erro, viés ou necessidade de crítica.
+## Exemplo 2 - Agentes de IA: sistema integrado de pesquisa {.center}
+
+>**Um agente combina modelos de linguagem, ferramentas ou habilidades específicas, memória  de curto prazo (contexto), memória de longo prazo (base documental e/ou base de sessões), regras e protocolos de ação, auditoria e registro de decisões.**
 
 ---
 
-## Agentes: da resposta à operação
-
-Um agente combina modelo, ferramentas, memória de trabalho e regras de execução.
-
-Pode:
+## O que um agente pode fazer? {.center}
 
 - buscar na web e consultar APIs;
 - ler e transformar arquivos;
 - executar código;
 - repetir etapas com critérios definidos;
 - produzir registros intermediários para auditoria.
-
-**Autonomia operacional não é autonomia epistêmica.**
+- receber guardrails e protocolos de ação.
+- receber instruções teóricas e metodológicas.
 
 ---
 
-## O que muda para as humanidades?
+## Agentes: autonomia? {.center}
 
-A pesquisa pode passar de uma sequência manual de tarefas para um sistema de operações parcialmente automatizadas.
+![Autonomia operacional não é autonomia epistêmica.](https://ericbrasil.com.br/imp-hist/imgs/agentes-ia.gif)
 
-Isso cria novas exigências:
+---
 
-- explicitar o protocolo;
-- preservar versões e rastros;
+## O que muda para as humanidades? {.center}
+
+* **A pesquisa pode passar de uma sequência manual de tarefas para um sistema de operações parcialmente automatizadas.**
+* Ampliação do espaço de perguntas e hipóteses que podem ser testadas.
+* Velocidade, volume e complexidade dos dados pode ser superada com sistemas de recuperação, classificação e análise.
+
+---
+
+## Novas demandas para as humanidades? {.center}
+
+- **INTERDISCIPLINARIDADE** = urgência;
+- conhecimento técnico especializado;
+- explicitar o protocolo, preservar versões e rastros;
 - distinguir sugestão, evidência e interpretação;
-- auditar o que o sistema fez;
-- assumir responsabilidade pelo resultado.
-
----
-
-## Um caso: desinformação no LABHDUFBA
-
-Um corpus de grande escala reúne, entre outros elementos:
-
-- mais de 70 milhões de mensagens;
-- cerca de 4 milhões de imagens;
-- cerca de 1 milhão de vídeos;
-- aproximadamente 3 milhões de links do YouTube;
-- cerca de 30 TB de dados.
-
-A escala torna impossível uma leitura exclusivamente manual.
-
-Ela não torna dispensável a leitura crítica.
-
----
-
-## Como a escala se torna pesquisa?
-
-A resposta depende de uma combinação entre:
-
+- auditar o que o sistema fez e assumir responsabilidade pelo resultado;
 - infraestrutura de armazenamento e processamento;
 - APIs abertas e documentadas;
 - financiamento continuado;
-- interdisciplinaridade;
-- modelos de recuperação e classificação;
-- amostragens e validação humana.
-
-O modelo é uma camada do método, não o método inteiro.
 
 ---
 
-## O custo da fronteira
+## LABHDUFBA: desinformação e discursos de ódio nas redes sociais {.center}
 
-A pesquisa com IA depende de infraestruturas concentradas em empresas e centros tecnológicos.
-
-Desafios centrais:
-
-- acesso desigual a GPUs, nuvens e créditos de API;
-- privacidade e segurança de dados;
-- reprodutibilidade de modelos fechados;
-- impactos ambientais;
-- fechamento de repositórios contra scrapers;
-- dependência de plataformas proprietárias.
+- corpus de grande escala, coletado em tempo real;
+- dados de telegram, YouTube, Instagram, Whatsapp, Discord, Roblox;
+- mais de 70 milhões de mensagens;
+- cerca de 4 milhões de imagens;
+- cerca de 1 milhão de vídeos;
+- cerca de 30 TB de dados.
 
 ---
 
-## Infraestrutura também é política do conhecimento
+## A escala e a velocidade de produção de dados torna impossível uma leitura exclusivamente manual. {.center}
 
-Sem infraestrutura pública, a desigualdade regional se converte em desigualdade epistêmica.
+---
+
+## Clusterização de imagens {.center}
+
+![](https://ericbrasil.com.br/hdan/imgs/cluster.png)
+
+[LINK](http://100.84.75.108:8766/clusters_standalone.html)
+
+---
+
+## Infraestrutura também é política do conhecimento {.center}
 
 Uma agenda mínima inclui:
 
@@ -246,25 +256,11 @@ Uma agenda mínima inclui:
 - créditos de uso de modelos;
 - plataformas auditáveis de preservação;
 - formação em História Digital e métodos computacionais.
+- debates sobre impactos ambientais, privacidade e segurança.
 
 ---
 
-## Dados digitais como memória social
-
-Dados digitais não são apenas matéria-prima.
-
-São vestígios produzidos por relações sociais, plataformas e regimes de visibilidade.
-
-Preservar, acessar e interpretar esses dados é disputar:
-
-- o que permanece;
-- o que pode ser encontrado;
-- quem pode pesquisar;
-- quais memórias se tornam legíveis.
-
----
-
-## Conclusão
+## Conclusão {.center}
 
 O deslocamento generativo reconfigura a pesquisa em três níveis:
 
@@ -272,35 +268,21 @@ O deslocamento generativo reconfigura a pesquisa em três níveis:
 2. **Metodológico** — exige novos protocolos de validação e auditoria.
 3. **Epistêmico** — altera a relação entre evidência, interpretação e agência.
 
-A resposta não é aceitar nem rejeitar a IA.
-
-É construir usos críticos, públicos e responsáveis.
-
 ---
 
-## Perguntas para a mesa
+## Obrigado {.center}
 
-- Que tarefas podem ser delegadas sem delegar a interpretação?
-- Como auditar sistemas que operam sobre grandes corpora?
-- Quem controla as infraestruturas da memória digital?
-- Como democratizar acesso a modelos, dados e capacidade computacional?
-
----
-
-## Obrigado
-
+::: {.columns}
+::: {.column width="50%"}
 **Eric Brasil**  
-Prof. Dr. — UNILAB
 
-[ericbrasil.com.br](https://ericbrasil.com.br)  
-[profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+- [ericbrasil.com.br](https://ericbrasil.com.br)  
+- [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+- [profericbrasil@gmail.com](mailto:profericbrasil@gmail.com)
+- [LABHDUFBA](https://labhdufba.com.br)
+:::
 
-[LABHDUFBA](https://labhdufba.com.br)
+::: {.column width="50%"}
+![](https://static2.klipy.com/ii/bea85337777ad0e23e63683391435543/0b/3e/MWuGbxZH.gif)
 
----
 
-## Nota sobre o uso de IA generativa {.center}
-
-Esta apresentação foi estruturada, redigida e formatada com assistência do Hermes Agent.
-
-A supervisão, as escolhas editoriais, a análise, a argumentação e a responsabilidade intelectual são de Eric Brasil.
