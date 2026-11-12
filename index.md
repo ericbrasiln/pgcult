@@ -42,7 +42,7 @@ Ela desloca:
 
 ---
 
-## Nem tínhamos discutido o giro digital e sofremos um capotamento pela tal da IA generativa.  {.center}
+## "Desculpe, Dave. Não posso fazer isso." {.center}
 
 ![](https://ericbrasil.com.br/imp-hist/imgs/ia-generativa.gif)
 
@@ -83,8 +83,6 @@ O problema é tratar escala e visualizações como sinônimo de conhecimento.
 
 No giro digital, a ferramenta podia ser pensada como extensão do método.
 
-. . .
-
 Com a IA generativa, o sistema passa a:
 
 - resumir e classificar;
@@ -104,48 +102,22 @@ Passa a ser: **que ambiente de produção do conhecimento estamos construindo?**
 ---
 
 ## A virada generativa {.center}
-::: {.incremental}
 
 * Todo mundo já conversou com um chatbot? 
 * Quais vocês usam? ChatGPT, Claude, Gemini, DeepSeek?
 * **Chatbots são apenas a interface mais visível.**
 * **Recebiam texto, devolviam texto. Hoje também estão se "agentificando". Vocês notaram?**
-:::
 
 ---
 
-## 3. A virada generativa {.center}
+## A virada generativa {.center}
 
 O deslocamento relevante ocorre quando LLMs deixam de ser usados somente para conversar e passam a integrar:
 
-::: {.incremental}
 - fluxos de trabalho;
 - bases documentais;
 - APIs e ferramentas;
 - rotinas de análise e verificação.
-::: 
-
----
-
-## LLMs: apoio, não autoridade {.center}
-
-Um modelo de linguagem pode ajudar a:
-
-::: {.incremental}
-- explorar conceitos e vocabulários;
-- organizar um corpus;
-- sugerir categorias de leitura;
-- comparar versões e localizar recorrências;
-- gerar protótipos de código.
-:::
-
----
-
-## LLMs: apoio, não autoridade {.center}
-
-Mas não é fonte primária.
-
-A resposta plausível não substitui a evidência verificável.
 
 ---
 
@@ -215,9 +187,8 @@ A resposta plausível não substitui a evidência verificável.
 
 - **INTERDISCIPLINARIDADE** = urgência;
 - conhecimento técnico especializado;
-- explicitar o protocolo, preservar versões e rastros;
+- transparência, versionamento, auditoria;
 - distinguir sugestão, evidência e interpretação;
-- auditar o que o sistema fez e assumir responsabilidade pelo resultado;
 - infraestrutura de armazenamento e processamento;
 - APIs abertas e documentadas;
 - financiamento continuado;
@@ -241,9 +212,20 @@ A resposta plausível não substitui a evidência verificável.
 
 ## Clusterização de imagens {.center}
 
-![](https://ericbrasil.com.br/hdan/imgs/cluster.png)
-
-[LINK](http://100.84.75.108:8766/clusters_standalone.html)
+::: {.columns}
+::: {.column width="25%"}
+![Fotos](imgs/1_print.png)
+:::
+::: {.column width="25%"}
+![Prints de Redes Sociais](imgs/2_print.png)
+:::
+::: {.column width="25%"}
+![Prints de páginas jornalísticas](imgs/3_print.png)
+:::
+::: {.column width="25%"}
+![Memes](imgs/4_print.png)
+:::
+:::
 
 ---
 
