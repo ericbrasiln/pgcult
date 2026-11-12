@@ -21,6 +21,14 @@ description: "Comunicação apresentada na Mesa 4 – Mídias, Linguagens, Memó
 toc: false
 ---
 
+## Acesse a apresentação online {.center}
+
+![QR code para a apresentação](imgs/qrcode-presentation.png){width=320px}
+
+[ericbrasil.com.br/pgcult](https://ericbrasil.com.br/pgcult/)
+
+---
+
 ## Nota sobre o uso de IA generativa {.center}
 
 Esta apresentação foi estruturada, redigida e formatada com assistência do Hermes Agent, utilizando o modelo de linguagem `gpt-5.6-luna` no dia 10 de novembro de 2026. 
